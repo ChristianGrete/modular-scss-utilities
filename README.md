@@ -2,10 +2,7 @@
 
 [![Latest GitHub Tag](https://img.shields.io/github/tag/modular-utilities/modular-scss-utilities.svg)](https://github.com/modular-utilities/modular-scss-utilities/tags)
 
-> Coming soon: A lightweight and modular SCSS utility collection
-
-## Note
-This branch does not contain any source files or artifacts as it is in its initial state. Please switch to the `develop` branch to checkout the current state of development.
+> A lightweight and modular SCSS utility collection
 
 ## Policy
 
