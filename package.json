@@ -1,0 +1,43 @@
+{
+  "author": {
+    "email": "scss@modular-utilities.org",
+    "name": "Modular Utilities (SCSS Team)",
+    "url": "http://modular-utilities.org/scss"
+  },
+  "bugs": {
+    "email": "scss@modular-utilities.org",
+    "url": "https://github.com/modular-utilities/modular-scss-utilities/issues"
+  },
+  "contributors": [
+    {
+      "email": "webmaster@christiangrete.com",
+      "name": "Christian Grete",
+      "url": "https://christiangrete.com"
+    }
+  ],
+  "dependencies": {},
+  "description": "A Mustache template for Polymer web components",
+  "devDependencies": {},
+  "files": [
+    "*.md"
+  ],
+  "homepage": "https://github.com/modular-utilities/modular-scss-utilities",
+  "keywords": [],
+  "license": "MIT",
+  "main": null,
+  "maintainers": [
+    {
+      "email": "webmaster@christiangrete.com",
+      "name": "Christian Grete",
+      "url": "https://christiangrete.com"
+    }
+  ],
+  "name": "modular-scss-utilities",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/modular-utilities/modular-scss-utilities.git"
+  },
+  "scripts": {},
+  "version": "0.0.0"
+}
