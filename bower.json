@@ -1,0 +1,28 @@
+{
+  "authors": [
+    {
+      "email": "scss@modular-utilities.org",
+      "name": "Modular Utilities (SCSS Team)",
+      "url": "http://modular-utilities.org/scss"
+    },
+    {
+      "email": "webmaster@christiangrete.com",
+      "homepage": "https://christiangrete.com",
+      "name": "Christian Grete"
+    }
+  ],
+  "dependencies": {},
+  "description": "A lightweight and modular SCSS utility collection",
+  "devDependencies": {},
+  "homepage": "https://github.com/modular-utilities/modular-scss-utilities",
+  "ignore": [],
+  "keywords": [],
+  "license": "MIT",
+  "main": null,
+  "name": "modular-scss-utilities",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/modular-utilities/modular-scss-utilities.git"
+  }
+}
