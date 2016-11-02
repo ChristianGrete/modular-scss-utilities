@@ -1,5 +1,34 @@
 {
   "name": "modular-scss-utilities",
   "description": "A lightweight and modular SCSS utility collection",
-  "tags": []
+  "tags": [
+    "base",
+    "bem",
+    "bower",
+    "compass",
+    "function",
+    "functions",
+    "helper",
+    "helpers",
+    "library",
+    "libraries",
+    "method",
+    "methods",
+    "modular",
+    "module",
+    "modules",
+    "node",
+    "nodejs",
+    "npm",
+    "preprocessing",
+    "preprocessor",
+    "sass",
+    "scss",
+    "smacss",
+    "tool",
+    "toolkit",
+    "tools",
+    "utilities",
+    "utility"
+  ]
 }
