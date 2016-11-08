@@ -15,7 +15,17 @@
   "description": "A lightweight and modular SCSS utility collection",
   "devDependencies": {},
   "homepage": "https://github.com/modular-utilities/modular-scss-utilities",
-  "ignore": [],
+  "ignore": [
+    ".DS_Store",
+    ".editorconfig",
+    ".git/",
+    ".gitignore",
+    ".npmignore",
+    ".tm_properties",
+    "node_modules/",
+    "npm-debug.log",
+    "package.json"
+  ],
   "keywords": [
     "base",
     "bem",
