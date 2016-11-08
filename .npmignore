@@ -7,3 +7,5 @@
 bower.json
 node_modules/
 npm-debug.log
+package.json
+sache.json
