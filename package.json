@@ -17,7 +17,9 @@
   ],
   "dependencies": {},
   "description": "A lightweight and modular SCSS utility collection",
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.18.0"
+  },
   "files": [
     "*.md"
   ],
