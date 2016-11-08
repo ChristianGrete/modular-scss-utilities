@@ -22,9 +22,11 @@
     ".gitignore",
     ".npmignore",
     ".tm_properties",
+    "bower.json",
     "node_modules/",
     "npm-debug.log",
-    "package.json"
+    "package.json",
+    "sache.json"
   ],
   "keywords": [
     "base",
