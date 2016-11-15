@@ -4,7 +4,7 @@ exclude = "{$exclude,.DS_Store}"
 excludeInProject= "{node_modules}"
 excludeInFileChooser = "{$excludeInFileChooser,$excludeInProject}"
 excludeInFolderSearch = "{$excludeInFolderSearch,$excludeInProject}"
-include = "{$include,.{editorconfig,git?*,tm_properties}}"
+include = "{$include,.{babelrc,editorconfig,git?*,tm_properties}}"
 invisiblesMap = " ␣\n↵\t⇥"
 projectDirectory = "$CWD"
 showIndentGuides = true
@@ -45,11 +45,14 @@ spellingLanguage = "en"
 tabSize = 4
 wrapColumn = "Use Window Frame"
 
-[ ".editorconfig*" ]
+[ ".babelrc" ]
+fileType = source.json
+
+[ ".editorconfig" ]
 fileType = source.tm-properties
 
-[ ".gitignore*" ]
+[ ".gitignore" ]
 fileType = source.git-config
 
-[ "*.md*" ]
+[ "*.md" ]
 fileType = text.html.markdown
