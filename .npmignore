@@ -5,8 +5,10 @@
 .npmignore
 .tm_properties
 bower.json
+config/
 node_modules/
 npm-debug.log
 package.json
 sache.json
+scripts/
 src/
