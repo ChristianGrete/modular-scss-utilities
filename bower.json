@@ -26,7 +26,8 @@
     "node_modules/",
     "npm-debug.log",
     "package.json",
-    "sache.json"
+    "sache.json",
+    "src/"
   ],
   "keywords": [
     "base",
