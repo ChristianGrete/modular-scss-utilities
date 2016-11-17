@@ -1,7 +1,7 @@
 binary = "{$binary}"
 encoding = "UTF-8"
 exclude = "{$exclude,.DS_Store}"
-excludeInProject= "{node_modules}"
+excludeInProject= "{dist,node_modules}"
 excludeInFileChooser = "{$excludeInFileChooser,$excludeInProject}"
 excludeInFolderSearch = "{$excludeInFolderSearch,$excludeInProject}"
 include = "{$include,.{babelrc,editorconfig,git?*,tm_properties}}"
