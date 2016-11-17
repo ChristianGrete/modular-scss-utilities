@@ -1,1 +1,4 @@
-{}
+{
+  "FILE__DSSTORE": ".DS_Store",
+  "FILE__NPMDEBUG_LOG": "npm-debug.log"
+}
