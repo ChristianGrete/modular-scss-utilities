@@ -1,3 +1,5 @@
+TM_ORGANIZATION_NAME = "Modular Utilities (SCSS Team)"
+
 binary = "{$binary}"
 encoding = "UTF-8"
 exclude = "{$exclude,.DS_Store}"
